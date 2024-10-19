@@ -1,0 +1,18 @@
+#orange{
+    width: 100px;
+    height:100px;
+    background-color:orange;
+    position: absolute;
+}
+#white{
+    width: 120px;
+    height:120px;
+    background-color: blue;
+    /* position: absolute; */
+}
+#green{
+    width: 140px;
+    height:140px;
+    background-color: green;
+    /* position: absolute; */
+}
