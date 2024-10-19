@@ -1,3 +1,24 @@
+#box{
+    position: absolute;
+width:500px;
+height:500px;
+background-color: coral;
+}
+
+#chota{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    width: 200px;
+    height: 100px;
+
+    background-color: yellow;
+}
+
+
+
+
+
 #orange{
     width: 100px;
     height:100px;
@@ -16,3 +37,4 @@
     background-color: green;
     /* position: absolute; */
 }
+
